@@ -1,7 +1,10 @@
 # PowerBI
 # Blinkit-Dashboard
 
-### Dashboard Link : 
+## Repository Structure
+- Data: [Blinkit Grocery Data (.xlsx)](https://github.com/aman-reign/PowerBI/blob/main/BlinkIT%20Grocery%20Data.xlsx) – Contains raw sales data used for analysis.
+- Dashboard: [Blinkit Sales Dashboard (.pbix)](https://github.com/aman-reign/PowerBI/blob/main/blinkitdashboard.pbix) – Power BI file containing all transformations and visualizations. 
+- Image: [Dashboard Screenshot](https://github.com/aman-reign/PowerBI/blob/main/blinkit-dashboard.png) – Preview of the Blinkit Sales Dashboard
 
 ## Problem Statement
 
@@ -24,7 +27,4 @@ Retail businesses often struggle with understanding sales distribution, outlet p
 - Step 7 : Four card visuals were added to the canvas, one representing relevant KPIs such as Total Sales, Average Sales, Number of Items Sold, and Average Rating.
 - Step 8: Designed Outlet Establishment Graph to show sales trends over time. Also designed Donut Charts & Bar Graphs for item type sales distribution and outlet performance.
 
-## Repository Structure
-- Data: [Blinkit Grocery Data (.xlsx)](https://github.com/aman-reign/PowerBI/blob/main/BlinkIT%20Grocery%20Data.xlsx) – Contains raw sales data used for analysis.
-- Dashboard: [Blinkit Sales Dashboard (.pbix)](https://github.com/aman-reign/PowerBI/blob/main/blinkitdashboard.pbix) – Power BI file containing all transformations and visualizations. 
-- Image: [Dashboard Screenshot](https://github.com/aman-reign/PowerBI/blob/main/blinkit-dashboard.png) – Preview of the Blinkit Sales Dashboard
+
