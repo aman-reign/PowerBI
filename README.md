@@ -23,3 +23,8 @@ Retail businesses often struggle with understanding sales distribution, outlet p
 - Step 6 : Visual filters (Slicers) were added for four fields named "Outlet Size", "Outlet location" & "Item Type 
 - Step 7 : Four card visuals were added to the canvas, one representing relevant KPIs such as Total Sales, Average Sales, Number of Items Sold, and Average Rating.
 - Step 8: Designed Outlet Establishment Graph to show sales trends over time. Also designed Donut Charts & Bar Graphs for item type sales distribution and outlet performance.
+
+## Repository Structure
+- Data: Contains the dataset
+- Dashboard: Power BI file (.pbix) of the project
+- Image: Contains screenshot of the dashboard for easy preview.
