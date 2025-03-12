@@ -27,4 +27,4 @@ Retail businesses often struggle with understanding sales distribution, outlet p
 ## Repository Structure
 - Data: [Blinkit Grocery Data (.xlsx)](https://github.com/aman-reign/PowerBI/blob/main/BlinkIT%20Grocery%20Data.xlsx) – Contains raw sales data used for analysis.
 - Dashboard: [Blinkit Sales Dashboard (.pbix)](https://github.com/aman-reign/PowerBI/blob/main/blinkitdashboard.pbix) – Power BI file containing all transformations and visualizations. 
-- Image:  ![Dashboard Screenshot](https://github.com/aman-reign/PowerBI/blob/main/blinkit-dashboard.png) – Preview of the Blinkit Sales Dashboard
+- Image: [Dashboard Screenshot](https://github.com/aman-reign/PowerBI/blob/main/blinkit-dashboard.png) – Preview of the Blinkit Sales Dashboard
