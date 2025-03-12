@@ -25,6 +25,6 @@ Retail businesses often struggle with understanding sales distribution, outlet p
 - Step 8: Designed Outlet Establishment Graph to show sales trends over time. Also designed Donut Charts & Bar Graphs for item type sales distribution and outlet performance.
 
 ## Repository Structure
-- Data: <a href "https://github.com/aman-reign/PowerBI/blob/main/BlinkIT%20Grocery%20Data.xlsx"</a>
-- Dashboard: Power BI file (.pbix) of the project
+- Data: [Blinkit Grocery Data (.xlsx)](https://github.com/aman-reign/PowerBI/blob/main/BlinkIT%20Grocery%20Data.xlsx) – Contains raw sales data used for analysis.
+- Dashboard: 
 - Image: Contains screenshot of the dashboard for easy preview.
